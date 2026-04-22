@@ -25,7 +25,7 @@ def random_source_ip():
 def main():
     clear_screen()
     print("Author    : Hiren Solanki")
-    print("github     : https://github.com/HirenSolanki210/DDos-Attack.git")
+    print("github    : https://github.com/HirenSolanki210/DDos-Attack.git")
     print("")
 
     try:
