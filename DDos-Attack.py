@@ -3,7 +3,6 @@ import os
 import time
 import socket
 import random
-from datetime import datetime
 from threading import Thread, Lock
 
 # Function to clear the screen
@@ -24,8 +23,8 @@ def random_source_ip():
 # Main function
 def main():
     clear_screen()
-    print("Author    : Hiren Solanki")
-    print("github    : https://github.com/HirenSolanki210/DDos-Attack.git")
+    print("Author    : imax hunt")
+    print("github    : https://github.com/imax4uint/DDos-Attack.git")
     print("")
 
     try:
